@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Movie App</string>
+    <string name="title_movie_detail">Movie Detail</string>
+	<string name="loading_genres">Loading genres&#8230;</string>
+	<string name="loading_cast">Loading cast&#8230;</string>
+	<string name="loading_synopsis">Loading synopsis&#8230;</string>
+    
+</resources>
