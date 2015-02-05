@@ -1,5 +1,0 @@
-/Users/shalafi/Documents/workspaces/MovieApp/app/build/intermediates/classes/debug
-/Users/shalafi/Documents/workspaces/MovieApp/app/build/intermediates/pre-dexed/debug/picasso-2.1.1-7ca5f0c240a7650d2ccdbcc4651294fb7a24e033.jar
-/Users/shalafi/Documents/workspaces/MovieApp/app/build/intermediates/pre-dexed/debug/retrofit-1.9.0-383c36de42421bc195dd6f40d738547f96aaa3eb.jar
-/Users/shalafi/Documents/workspaces/MovieApp/app/build/intermediates/pre-dexed/debug/gson-2.3.1-52319afcc219cba339cb27ce3668ebae5da829bf.jar
-/Users/shalafi/Documents/workspaces/MovieApp/app/build/intermediates/pre-dexed/debug/support-v4-19.1.0-2e33946fc2604895f5b8311a8f550d912c25103c.jar
